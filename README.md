@@ -55,8 +55,5 @@ Log_classification_system/
 ## Contributing
 Contributions are welcome! Please submit a pull request or open an issue for any suggestions or improvements.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 - Thanks to the contributors and libraries that made this project possible.
